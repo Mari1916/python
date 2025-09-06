@@ -21,7 +21,5 @@ class cliente_controller:
         print("Cliente cadastrado com sucesso!")
 
     def listar_cliente(self):
-        """
-        Retonar uma lista com todos os clientes
-        """
-        return self.database.listar_cliente() 
+        """Retornar uma lista com todos os clientes"""
+        return self.database.listar_clientes()

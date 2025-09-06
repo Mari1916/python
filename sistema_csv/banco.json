@@ -4,6 +4,11 @@
             "nome": "Mari",
             "email": "mari@gmailo.com",
             "idade": 18
+        },
+        {
+            "nome": "joao",
+            "email": "joao@email.com",
+            "idade": 20
         }
     ]
 }
